@@ -1,0 +1,114 @@
+  [
+    {
+      "title": "Inception",
+      "description": "A mind-bending science fiction thriller that explores the concept of dream manipulation.",
+      "posterURL": "https://res.cloudinary.com/dyjo2mvqb/image/upload/v1699349320/Inception-movie-poster-7_nxo8qc.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "posterURL": "https://res.cloudinary.com/dyjo2mvqb/image/upload/v1699349461/the-shawshank-redemption_saaigj.jpg",
+      "rating": 4.7
+    },
+    {
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "posterURL": "https://res.cloudinary.com/dyjo2mvqb/image/upload/v1699349554/th_gkxscj.jpg",
+      "rating": 4.4
+    },
+    {
+      "title": "The Dark Knight",
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "posterURL": "https://res.cloudinary.com/dyjo2mvqb/image/upload/v1699349635/The_2BDark_2BKnight_gimho8.jpg",
+      "rating": 4.6
+    },
+    {
+        "title": "47 Ronin",
+        "description": "In feudal Japan, Lord Asano rules his province with fairness. However, jealous Lord Kira (Tadanobu Asano) fears that the shogun favors",
+        "posterURL": "https://res.cloudinary.com/dyjo2mvqb/image/upload/v1699351656/zCxkObMfX0pJhcjicEdrop9VJxh_vrpgus.jpg",
+        "rating": 4.6
+    },
+    
+      {
+        "title": "The Shawshank Redemption",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "posterURL": "https://example.com/shawshank-redemption-poster.jpg",
+        "rating": 4.7
+      },
+      {
+        "title": "The Godfather",
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "posterURL": "https://example.com/godfather-poster.jpg",
+        "rating": 4.8
+      },
+      {
+        "title": "The Dark Knight",
+        "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+        "posterURL": "https://example.com/dark-knight-poster.jpg",
+        "rating": 4.6
+      },
+      {
+        "title": "Pulp Fiction",
+        "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "posterURL": "https://example.com/pulp-fiction-poster.jpg",
+        "rating": 4.4
+      },
+      {
+        "title": "Forrest Gump",
+        "description": "The life of a simple man with a low I.Q. who unwittingly influences several people and historic events.",
+        "posterURL": "https://example.com/forrest-gump-poster.jpg",
+        "rating": 4.5
+      },
+      {
+        "title": "Gladiator",
+        "description": "A former Roman General seeks justice after being betrayed by a corrupt prince and sent into slavery.",
+        "posterURL": "https://example.com/gladiator-poster.jpg",
+        "rating": 4.6
+      },
+      {
+        "title": "The Matrix",
+        "description": "A computer programmer discovers a dystopian world dominated by sentient machines and joins a group of rebels fighting against them.",
+        "posterURL": "https://example.com/matrix-poster.jpg",
+        "rating": 4.4
+      },
+      {
+        "title": "Avatar",
+        "description": "A paraplegic marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+        "posterURL": "https://example.com/avatar-poster.jpg",
+        "rating": 4.4
+      },
+      {
+        "title": "Interstellar",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "posterURL": "https://example.com/interstellar-poster.jpg",
+        "rating": 4.6
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "A young hobbit, Frodo Baggins, embarks on a perilous journey to destroy a powerful ring that could bring about the end of the world.",
+        "posterURL": "https://res.cloudinary.com/dyjo2mvqb/image/upload/v1699356530/th_nra71p.jpg",
+        "rating": 4.7
+      },
+      {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "description": "A young farm boy embarks on a journey to rescue a princess and confront the evil Galactic Empire with the help of allies.",
+        "posterURL": "https://res.cloudinary.com/dyjo2mvqb/image/upload/v1699356399/th_knoipj.jpg",
+        "rating": 4.6
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "description": "A young FBI agent consults an imprisoned serial killer to help catch another killer on the loose.",
+        "posterURL": "https://res.cloudinary.com/dyjo2mvqb/image/upload/v1699356255/th_ktijme.jpg",
+        "rating": 4.7
+      },
+      {
+        "title": "Schindler's List",
+        "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "posterURL": "https://res.cloudinary.com/dyjo2mvqb/image/upload/v1699356096/th_kudmco.jpg",
+        "rating": 4.8
+      }
+    
+    
+  ]
+  
